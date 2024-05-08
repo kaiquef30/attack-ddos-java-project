@@ -1,5 +1,7 @@
 # DDoS Attack Program
 
+<img src="https://miro.medium.com/v2/resize:fit:960/1*vIV3uqDk2xKc42JLmcrXRw.gif" width="636" height="304" />
+
 Este é um programa de ataque DDoS desenvolvido para fins educacionais. Ele realiza um ataque de negação de serviço distribuído (DDoS) contra um servidor alvo.
 
 ## Funcionamento
